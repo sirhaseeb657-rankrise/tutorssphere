@@ -1,0 +1,17 @@
+{
+  "name": "TutorSphere Tutors",
+  "short_name": "TutorSphere",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f7ff",
+  "theme_color": "#0f172a",
+  "description": "Find trusted home and online tutors across Pakistan for personalized academic support.",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
